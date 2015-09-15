@@ -11,7 +11,7 @@ It *is* more efficient than nano if you know what you are doing. Perhaps I shoul
 OK, I will now.
 
 1. Save this file.
-	+And then add it (which I did after commiting the initial version)
+	+ And then add it (which I did after commiting the initial version)
 2. Commit this file (using nano to write my commit message).
 3. Push the repo.
 
