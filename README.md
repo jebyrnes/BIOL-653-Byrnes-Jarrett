@@ -2,7 +2,7 @@
 
 I admit, I edited this file in nano.  What can I say, I like shell-based text editors.
 
-Sometimes I even --use vi-- hit myself in the head.
+Sometimes I even ~~use vi~~ hit myself in the head.
 
 OK, that's not true. I think my [https://www.nceas.ucsb.edu/scicomp/staff/regetz](former vi teacher) would be sad to hear me say that.
 
